@@ -1,0 +1,44 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "meetbly/booking",
+	"version": "1.0.0",
+	"title": "Meetbly Booking",
+	"category": "embed",
+	"icon": "calendar",
+	"description": "Embed a Meetbly service booking widget.",
+	"keywords": [ "meetbly", "booking", "appointments", "calendar" ],
+	"textdomain": "meetbly-booking",
+	"attributes": {
+		"handle": {
+			"type": "string",
+			"default": ""
+		},
+		"service": {
+			"type": "string",
+			"default": ""
+		},
+		"minHeight": {
+			"type": "number",
+			"default": 0
+		},
+		"maxWidth": {
+			"type": "string",
+			"default": ""
+		},
+		"align": {
+			"type": "string",
+			"default": ""
+		},
+		"showConsent": {
+			"type": "boolean",
+			"default": false
+		}
+	},
+	"supports": {
+		"html": false,
+		"align": false
+	},
+	"editorScript": "meetbly-booking-block-editor",
+	"editorStyle": "meetbly-booking-block-editor"
+}
