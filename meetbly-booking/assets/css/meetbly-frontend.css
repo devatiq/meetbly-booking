@@ -1,0 +1,44 @@
+.meetbly-booking-widget {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.meetbly-booking-widget--align-left {
+	margin-right: auto;
+	margin-left: 0;
+}
+
+.meetbly-booking-widget--align-center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.meetbly-booking-widget--align-right {
+	margin-left: auto;
+	margin-right: 0;
+}
+
+.meetbly-booking-embed {
+	display: block;
+	width: 100%;
+	border: none;
+	max-width: 100%;
+}
+
+@media ( prefers-reduced-motion: reduce ) {
+	.meetbly-booking-embed {
+		transition: none !important;
+	}
+}
+
+.meetbly-booking-consent {
+	margin: 0.75rem 0 0;
+	font-size: 0.875rem;
+	line-height: 1.5;
+}
+
+.meetbly-booking-notice {
+	padding: 0.75rem 1rem;
+	border-left: 4px solid #d63638;
+	background: #fcf0f1;
+}

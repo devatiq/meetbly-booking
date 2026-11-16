@@ -1,0 +1,158 @@
+# Copyright (C) 2026 Nexiby LLC
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Meetbly Booking 1.0.0\n"
+"Report-Msgid-Bugs-To: https://meetbly.com/wordpress\n"
+"POT-Creation-Date: 2026-11-16 04:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: meetbly-booking\n"
+
+#: includes/class-meetbly-render.php
+msgid "Set a Meetbly handle and service."
+msgstr ""
+
+#: includes/class-meetbly-render.php
+msgid "Meetbly booking widget"
+msgstr ""
+
+#: includes/class-meetbly-render.php
+msgid "Privacy Policy"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Meetbly Booking"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Default provider handle"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Your Meetbly @handle, e.g. nexiby."
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Default service slug"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "The service public link slug, e.g. test."
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Default min height (px)"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Default max width"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Pixels (e.g. 800px) or percentage (e.g. 100%)."
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Default alignment"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Left"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Center"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Right"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Consent note (optional)"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Shown below the widget when enabled on a block or widget."
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Privacy policy URL"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Uninstall data"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Delete all plugin data on uninstall"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "When unchecked, your settings are preserved (recommended)."
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Allow your domain in Meetbly"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "The embed only renders on domains you add under Manage Allowed Domains in Meetbly. Without this step, the widget may appear blank on your site."
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Open Meetbly"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Connect your Meetbly account"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Preview"
+msgstr ""
+
+#: includes/class-meetbly-settings.php
+msgid "Copy shortcode"
+msgstr ""
+
+#: includes/class-meetbly-booking.php
+msgid "Copied!"
+msgstr ""
+
+#: includes/class-meetbly-elementor-widget.php
+msgid "Provider handle"
+msgstr ""
+
+#: includes/class-meetbly-elementor-widget.php
+msgid "Service slug"
+msgstr ""
+
+#: includes/class-meetbly-elementor-widget.php
+msgid "Min height (px)"
+msgstr ""
+
+#: includes/class-meetbly-elementor-widget.php
+msgid "Max width"
+msgstr ""
+
+#: includes/class-meetbly-elementor-widget.php
+msgid "Alignment"
+msgstr ""
+
+#: includes/class-meetbly-elementor-widget.php
+msgid "Show consent note"
+msgstr ""
+
+#: includes/class-meetbly-elementor-widget.php
+msgid "Yes"
+msgstr ""
+
+#: includes/class-meetbly-elementor-widget.php
+msgid "No"
+msgstr ""
